@@ -1,0 +1,1 @@
+PlayNcash Mobile - Build Instructions\n\n1. Install EAS CLI: npm install -g eas-cli\n2. Login: eas login\n3. Configure: eas build:configure\n4. Build: eas build -p android --profile production\n

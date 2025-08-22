@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "357269272755",
+    "project_id": "playncash",
+    "storage_bucket": "playncash.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357269272755:android:a5de26a3856826f4b8d8c6",
+        "android_client_info": {
+          "package_name": "Com.playNcash.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaTAfQTS4J23tvmf1uDe6IZ0OaA1Dk1oU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

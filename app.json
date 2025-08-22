@@ -1,0 +1,41 @@
+{
+  "expo": {
+    "name": "PlayNcash",
+    "slug": "playncash",
+    "scheme": "playncash",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#111111"
+    },
+    "android": {
+      "package": "com.playNcash.app",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#111111"
+      }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "replace-with-eas-project-id"
+      },
+      "firebase": {
+        "apiKey": "@FIREBASE_API_KEY",
+        "authDomain": "@FIREBASE_AUTH_DOMAIN",
+        "projectId": "playncash",
+        "storageBucket": "@FIREBASE_STORAGE_BUCKET",
+        "messagingSenderId": "@FIREBASE_MESSAGING_SENDER_ID",
+        "appId": "@FIREBASE_APP_ID"
+      },
+      "admob": {
+        "appId": "ca-app-pub-1478767466279341~2243685579",
+        "bannerId": "ca-app-pub-1478767466279341/8749352357",
+        "interstitialId": "ca-app-pub-1478767466279341/4810107343",
+        "rewardedId": "ca-app-pub-1478767466279341/2303379416"
+      }
+    }
+  }
+}
